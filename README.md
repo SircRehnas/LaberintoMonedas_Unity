@@ -275,3 +275,7 @@ Assets/Laberinto/
 
 * Todos los assets están licenciados bajo la Standard Unity Asset Store EULA.
 * Asegúrese de revisar la documentación de cada asset para obtener información adicional.
+
+## Desarrollado por
+
+ThianDev (GitHub: [SircRehnas](https://github.com/SircRehnas))
