@@ -1,0 +1,32 @@
+/*
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class InterfaceCredits : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    public void botonVolver(){
+        SceneManager.LoadScene("Awake");//
+    }
+}
+*/
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class InterfaceCredits : MonoBehaviour
+{
+    public void BotonVolver()
+    {
+        SceneManager.LoadScene("Awake");
+    }
+}
