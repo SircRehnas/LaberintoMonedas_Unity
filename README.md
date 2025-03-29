@@ -19,7 +19,7 @@ Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://githu
 
 * **Título de la obra:** Laberinto De Las Monedas
 * **Nombre de desarrollador:** SircRehnas (ThianDev)
-* **Enlace a la obra:** [https://github.com/SircRehnas/Laberinto_Repo](https://github.com/SircRehnas/Laberinto_Repo)
+* **Enlace a la obra:** [https://github.com/SircRehnas/LaberintoMonedas_Unity](https://github.com/SircRehnas/LaberintoMonedas_Unity)
 * **Enlace al GitHub del creador:** [SircRehnas](https://github.com/SircRehnas)
 * **Año de creación:** 2025
 
@@ -47,7 +47,7 @@ Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://githu
 
 ## Instalación
 
-1.  Clona el repositorio: `git clone https://github.com/SircRehnas/Laberinto_Repo.git`
+1.  Clona el repositorio: `git clone https://github.com/SircRehnas/LaberintoMonedas_Unity.git`
 2.  Abre Unity Hub.
 3.  Haz clic en "Add" y selecciona la carpeta del proyecto clonado.
 
