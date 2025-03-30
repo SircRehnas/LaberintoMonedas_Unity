@@ -29,6 +29,16 @@ Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://githu
 * **Enlace al GitHub del creador:** [SircRehnas](https://github.com/SircRehnas)
 * **Año de creación:** 2025
 
+```bash
+<p>
+  <strong>Título de la obra:</strong> Laberinto De Las Monedas<br>
+  <strong>Nombre de desarrollador:</strong> SircRehnas (ThianDev)<br>
+  <strong>Enlace a la obra:</strong> <a href="https://github.com/SircRehnas/LaberintoMonedas_Unity">https://github.com/SircRehnas/LaberintoMonedas_Unity</a><br>
+  <strong>Enlace al GitHub del creador:</strong> <a href="https://github.com/SircRehnas">SircRehnas</a><br>
+  <strong>Año de creación:</strong> 2025
+</p>
+```
+
 ## Características
 
 * Laberintos generados proceduralmente.
