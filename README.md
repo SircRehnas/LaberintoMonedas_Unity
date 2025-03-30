@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/SircRehnas/LaberintoMonedas_Unity/blob/main/Laberinto/Assets/Textures/android/mipmap-xxxhdpi/ic_launcher_laberintoCoins.png" alt="Laberinto De las Monedas Logo" width="250" height="250">
+  <br>
+  <strong>Laberinto De las Monedas: ¡Recoge todas las monedas!</strong>
+</p>
+
 # Laberinto De Las Monedas
 
 [![Estado del proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)](https://shields.io/)
