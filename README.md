@@ -4,24 +4,26 @@
   <strong>Laberinto De las Monedas: ¡Recoge todas las monedas!</strong>
 </p>
 
-# Laberinto De Las Monedas
+# 🎮 Laberinto De Las Monedas
 
-[![Estado del proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)](https://shields.io/)
+[![Estado del proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)](https://shields.io/)[![Licencia CC BY-NC-ND 4.0](https://img.shields.io/badge/Licencia-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-**Nota:** Este proyecto se encuentra actualmente en desarrollo y puede contener errores o funcionalidades incompletas.
+**📝 Nota:** Este proyecto se encuentra actualmente en desarrollo y puede contener errores o funcionalidades incompletas.
 
 Este proyecto es un juego de laberinto en 3D desarrollado con Unity 6.0.0.41f1, donde el jugador debe recolectar monedas para completar el nivel.
 
-## Licencia
+## 📜 Licencia
 
-Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://github.com/SircRehnas)) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://github.com/SircRehnas)) is licensed under `CC BY-NC-ND 4.0`.
+[Ver licencia completa](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-[![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-[![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-[![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
-## Datos de atribución
+[![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+[![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+[![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+[![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+
+## 📋 Datos de atribución
 
 * **Título de la obra:** Laberinto De Las Monedas
 * **Nombre de desarrollador:** SircRehnas (ThianDev)
@@ -31,22 +33,22 @@ Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://githu
 
 ```bash
 <p>
-  <strong>Título de la obra:</strong> Laberinto De Las Monedas<br>
-  <strong>Nombre de desarrollador:</strong> SircRehnas (ThianDev)<br>
-  <strong>Enlace a la obra:</strong> <a href="https://github.com/SircRehnas/LaberintoMonedas_Unity">https://github.com/SircRehnas/LaberintoMonedas_Unity</a><br>
-  <strong>Enlace al GitHub del creador:</strong> <a href="https://github.com/SircRehnas">SircRehnas</a><br>
-  <strong>Año de creación:</strong> 2025
+  <strong>Título de la obra:</strong> Laberinto De Las Monedas<br>
+  <strong>Nombre de desarrollador:</strong> SircRehnas (ThianDev)<br>
+  <strong>Enlace a la obra:</strong> <a href="[https://github.com/SircRehnas/LaberintoMonedas_Unity](https://github.com/SircRehnas/LaberintoMonedas_Unity)">[https://github.com/SircRehnas/LaberintoMonedas_Unity](https://github.com/SircRehnas/LaberintoMonedas_Unity)</a><br>
+  <strong>Enlace al GitHub del creador:</strong> <a href="[https://github.com/SircRehnas](https://github.com/SircRehnas)">SircRehnas</a><br>
+  <strong>Año de creación:</strong> 2025
 </p>
 ```
 
-## Características
+## ✨ Características
 
 * Laberintos generados proceduralmente.
 * Recolección de monedas.
 * Control de personaje en 3D.
 * Gráficos 3D estilizados.
 
-## Cómo jugar (Windows/Android)
+## 🕹️ Cómo jugar (Windows/Android)
 
 1.  Descarga el proyecto desde GitHub.
 2.  Abre el proyecto en Unity.
@@ -54,33 +56,33 @@ Laberinto De Las Monedas © 2025 by ThianDev (GitHub: [SircRehnas](https://githu
 4.  Presiona el botón "Play".
 5.  Navega por el laberinto y recolecta todas las monedas.
 
-* Para jugar en Windows, puedes encontrar el ejecutable en la carpeta `Build/Windows`.
-* Para jugar en Android, puedes descargar el archivo APK en la carpeta `Build/Android`.
+* 💻 Para jugar en Windows, puedes encontrar el ejecutable en la carpeta `Build/Windows`.
+* 📱 Para jugar en Android, puedes descargar el archivo APK en la carpeta `Build/Android`.
 
-## Requisitos
+## ⚙️ Requisitos
 
 * Unity 2021.3 o superior.
 
-## Instalación
+## 💾 Instalación
 
 1.  Clona el repositorio: `git clone https://github.com/SircRehnas/LaberintoMonedas_Unity.git`
 2.  Abre Unity Hub.
 3.  Haz clic en "Add" y selecciona la carpeta del proyecto clonado.
 
-## Contribución
+## 🤝 Contribución
 
 Las contribuciones son bienvenidas. Si encuentras un error o tienes una idea para mejorar el juego, por favor crea un "issue" o envía un "pull request".
 
-## Contacto
+## 📧 Contacto
 
 Si tienes alguna pregunta o comentario, puedes contactarme a través de GitHub ([SircRehnas](https://github.com/SircRehnas)) (ThianDev).
 
-## Agradecimientos
+## 🙏 Agradecimientos
 
 * A la comunidad de Unity por su apoyo y recursos.
 * A mi familia por su apoyo.
 
-## Assets Utilizados
+## 📦 Assets Utilizados
 
 ### 1. Ten Power-Ups (TeKniKo)
 
@@ -208,14 +210,49 @@ Si tienes alguna pregunta o comentario, puedes contactarme a través de GitHub (
 * **Licencia:** Standard Unity Asset Store EULA
 * **Instrucciones de Uso:** Importar el paquete a través del Asset Manager. Los materiales se encuentran en `Assets/PAssetStoreacks/WorldMaterialsFree/Resource Files`.
 
-## Instrucciones Generales
+## 📖 Instrucciones Generales
 
 1.  Importar los paquetes a través del Asset Manager de Unity 6.
 2.  Arrastrar y soltar los prefabs y modelos en la escena según sea necesario.
 3.  Configurar los scripts y componentes según los requisitos del proyecto.
 4.  Ajustar las texturas y materiales para que coincidan con el estilo visual del juego.
 
-## Estructura del Proyecto
+## ❓ FAQ (Preguntas Frecuentes)
+
+<details>
+  <summary>🔽 ¿Cómo evito a los enemigos que disparan?</summary>
+
+  **Estrategia**:
+  1. Muévete en zigzag para esquivar proyectiles.
+  2. Usa los cubos magnéticos como "escudo" (los proyectiles no los atraviesan).
+  3. En niveles altos, prioriza eliminar enemigos con power-ups de ataque (si existen).
+</details>
+
+<details>
+  <summary>🔽 ¿Cuándo se apagan los láseres?</summary>
+
+  Los láseres siguen un ciclo de **3 segundos activos** → **2 segundos inactivos** (aproximadamente). Observa sus luces:
+  - **Rojo**: Peligro (activo).
+  - **Apagado**: Seguro para pasar.
+</details>
+
+<details>
+  <summary>🔽 ¿Los cubos magnéticos me pueden matar?</summary>
+
+  No, pero te arrastran hacia ellos. ¡Cuidado! Pueden:
+  - Empujarte contra láseres/enemigos.
+  - Ralentizarte al pasar cerca.
+  - En modo Difícil, a veces giran rápidamente.
+</details>
+
+<details>
+  <summary>🔽 ¿Hay checkpoint en los niveles?</summary>
+
+  No. Si mueres, **recomienza el nivel** (pero conservas las monedas recolectadas).
+  *Consejo*: En modo Difícil, prioriza corazones antes de arriesgarte.
+</details>
+
+## 📁 Estructura del Proyecto
 ```
 Assets/Laberinto/
 ├── Adaptive Performance/
@@ -274,24 +311,44 @@ Assets/Laberinto/
     └── UI/
 ```
 
-## Dependencias
+## 🔗 Dependencias
 
 * Este proyecto utiliza los assets listados en "Assets Utilizados".
 
-## Información de Contacto
-
-* Correo electrónico: thian@thiandev.com
-
-## Licencia
-
-* Este proyecto tiene libertad de uso, pero no se permiten modificaciones.
-* Si se realizan modificaciones, se debe mencionar al creador del proyecto (ThianDev).
-
-## Notas
+## 📝  Notas
 
 * Todos los assets están licenciados bajo la Standard Unity Asset Store EULA.
 * Asegúrese de revisar la documentación de cada asset para obtener información adicional.
 
-## Desarrollado por
+## 📜 Licencia
 
-ThianDev (GitHub: [SircRehnas](https://github.com/SircRehnas))
+El Laberinto de las Monedas © 2025 by ThianDev (GitHub: SircRehnas) is licensed under `CC BY-NC-ND 4.0`.
+[Ver licencia completa](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## ❗Términos Adicionales
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO.
+Queda prohibido:
+
+1. Uso comercial sin permiso
+2. Distribución de versiones modificadas
+3. Omitir atribución al autor
+   
+## 📜 Datos de atribución
+
+* **Título de la obra:** LaberintoMonedas_Unity
+* **Nombre de desarrollador:** SircRehnas (ThianDev)
+* **Enlace a la obra:** [https://github.com/SircRehnas/LaberintoMonedas_Unity](https://github.com/SircRehnas/LaberintoMonedas_Unity)
+* **Enlace al GitHub del creador:** [SircRehnas](https://github.com/SircRehnas)
+* **Año de creación:** 2025
+  
+## 📅 Roadmap
+- [x] Versión inicial
+- [x] Diseño móvil
+- [ ] Implementar seleccion de personaje
+- [ ] Añadir nuevos enemigos
+- [ ] Mejorar niveles
+- [ ] Niveles del 4-8
+
+## 👨‍💻 Desarrollador
+
+* **ThianDev** - [GitHub: SircRehnas](https://github.com/SircRehnas)
